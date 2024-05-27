@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+estou estudando no Alura
+estou me desenvolvendo na linguagem javascript
+ultilizo esse espaço para a minha organizaçao e compartilhamento dos meus projetos 
+
 <!--
 **monteranial/monteranial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
